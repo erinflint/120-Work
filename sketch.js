@@ -2,6 +2,7 @@ let circle = [];
 let x;
 let y;
 let size;
+let color;
 let num_of_circles = 30;
 
 function setup() {
@@ -22,7 +23,7 @@ function draw () {
   }
 
 class Circle {
-  constructor( x, y, size) {
+  constructor( x, y, size, 0 ) {
     this.shade = 255;
     this.size = size;
     this.rad = this.size / 4;
