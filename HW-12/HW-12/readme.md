@@ -1,0 +1,2 @@
+For week 12 I took a more simple approach. I referenced my week 11 sketch because I really liked how it turned out and used that code as a base for my homework this week. I wanted to make it look like a lightning storm behind my original code.
+I was quite pleased with how quickly I understood this week's material and how I was actually able to see how each individual line I wrote effected my final piece.
